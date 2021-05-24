@@ -27,3 +27,7 @@ Arrays in Python:
 *array(data type, value list): This function is used t create an array with data type and value list specified in its arguments.
 *append(): This function is used to add the value mentioned in its arguments at the end of the array.
 *insert(i,x): This function is use to add the value(x) at the ith position specified in the argument.
+*pop(): This function removes the element at the position mentioned in its argument and returns it. 
+*remove(): This function is used to remove the first occurence of the value mentioned in its arguments. 
+*index(): This function returns the index of the first occurence of value mentioned in arguments 
+*reverse(): This function reverses the array.
